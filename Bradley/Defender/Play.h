@@ -24,7 +24,7 @@
 #ifndef PLAYPCH_H
 #define PLAYPCH_H
 
-#define PLAY_VERSION	"1.1.22.04.14"
+#define PLAY_VERSION	"1.1.22.06.16"
 
 #include <cstdint>
 #include <cstdlib>
