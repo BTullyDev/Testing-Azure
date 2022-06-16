@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "makeshf", "makeshf.pyproj", "{BD319F4F-5F25-43F8-9919-94B3D124BC2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD319F4F-5F25-43F8-9919-94B3D124BC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD319F4F-5F25-43F8-9919-94B3D124BC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12096302-FCCE-440C-B61C-7F9A58CC9DB3}
+	EndGlobalSection
+EndGlobal
